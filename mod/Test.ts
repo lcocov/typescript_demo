@@ -2,4 +2,4 @@ import validator from "./ZipCodeValidator";
 
 let myValidator = new validator();
 console.log(myValidator.isAcceptable("a"));
-console.log("abc");
+console.log("abcd");
